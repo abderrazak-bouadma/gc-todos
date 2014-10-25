@@ -1,3 +1,6 @@
 .idea
 todos.iml
 target/
+.project
+.classpath
+.settings/
